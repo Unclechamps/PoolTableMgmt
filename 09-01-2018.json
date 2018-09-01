@@ -1,0 +1,13 @@
+[
+  {
+    "table_number": 1,
+    "status": "Open",
+    "start_time": 1535844984.54087,
+    "start_time_stamp": "2018-09-01 18:36:24.540882",
+    "end_time": 1535845084.23721,
+    "end_time_stamp": "2018-09-01 18:38:04.237219",
+    "current_duration": null,
+    "total_duration": 1.66,
+    "total_cost": 0.83
+  }
+]
