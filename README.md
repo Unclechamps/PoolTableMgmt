@@ -12,7 +12,4 @@ This repository includes a total of 7 files:
 
 **_currentstatus.json_** - Current status of pool tables is pushed in JSON. Data is sent at every transaction (open or close a pool table session) 
 
-**_05-12-2018.py_** - Running list of transactions including total duration and cost.
-
-**_05-13-2018.py_** - Running list of transactions including total duration and cost.
-
+**_09-01-2018.py_** - Running list of transactions including total duration and cost.
